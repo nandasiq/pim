@@ -1,1 +1,58 @@
-<mxfile host="app.diagrams.net" modified="2021-06-08T00:18:20.101Z" agent="5.0 (Windows)" version="14.7.6" etag="ERGhX0P3pgWfg59Vp0WI" type="github"><diagram id="Wuz8spe_l7IC4JuhF6uH">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-06-08T00:29:47.929Z" agent="5.0 (Windows)" etag="kLJ_jc_1u04mGbgjBby1" version="14.7.6" type="github">
+  <diagram id="Wuz8spe_l7IC4JuhF6uH" name="Page-1">
+    <mxGraphModel dx="942" dy="559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="VCFduIJTwTHkRDhWvB6z-1" value="atendente" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="80" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VCFduIJTwTHkRDhWvB6z-2" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="110" as="sourcePoint" />
+            <mxPoint x="170" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VCFduIJTwTHkRDhWvB6z-3" value="fazer login" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="20" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VCFduIJTwTHkRDhWvB6z-4" value="cadastrar cliente" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="90" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VCFduIJTwTHkRDhWvB6z-7" value="cadastrar venda" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="345" y="180" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VCFduIJTwTHkRDhWvB6z-8" value="solicitar cancelamento venda" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="337.5" y="240" width="95" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VCFduIJTwTHkRDhWvB6z-9" value="solicitar retirada produto" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="300" width="105" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VCFduIJTwTHkRDhWvB6z-10" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="110" as="sourcePoint" />
+            <mxPoint x="230" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VCFduIJTwTHkRDhWvB6z-11" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="110" as="sourcePoint" />
+            <mxPoint x="320" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VCFduIJTwTHkRDhWvB6z-12" value="" style="endArrow=classic;html=1;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="110" as="sourcePoint" />
+            <mxPoint x="320" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VCFduIJTwTHkRDhWvB6z-13" value="" style="endArrow=classic;html=1;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="110" as="sourcePoint" />
+            <mxPoint x="240" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
